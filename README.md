@@ -11,3 +11,4 @@ Do Anything You want Damnit
 
 Today Linux
 find . -type d -name ".git"  -  for searching inside git
+I am Godddamn Confused
