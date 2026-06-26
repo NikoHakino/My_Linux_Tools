@@ -7,3 +7,7 @@ adding a alias
 
 
 Do Anything You want Damnit
+
+
+Today Linux
+find . -type d -name ".git"  -  for searching inside git
